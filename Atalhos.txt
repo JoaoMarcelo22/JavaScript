@@ -1,0 +1,2 @@
+Ctrl+L = limpar tela no Node
+`conteudo inteiro do texto ${ a variavel }`
