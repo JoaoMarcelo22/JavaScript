@@ -1,2 +1,14 @@
 Ctrl+L = limpar tela no Node
 `conteudo inteiro do texto ${ a variavel }`
+5 % 2 é o resto da divisão de 5 sob 3 ou seja, resultado 1
+** é a potencia, ou seja 5**2 é igual a 25
+-=
++=
+*=
+/=
+%=
+**
+simplificando
+! = Not
+&& = And
+|| = Or
