@@ -44,3 +44,16 @@ console.log(pessoas);
 //exibição 2 no console: ["Jose", "Maicon"]
 //exibição 3 no console: ["Maicon"]
 
+//---------------length--------------------------------//
+let pessoas = [];
+pessoas.push("José","Ana","Maicon","Diego");
+
+console.log(pessoas.length);
+// exibe no console : 4//
+
+//---------------Ordenação------------------------------//
+let pessoas = [];
+pessoas.push("José","Ana","Maicon","Diego");
+pessoas.sort()
+console.log(pessoas);
+// exibição no console : ["Ana","Diego","José","Maicon"]
