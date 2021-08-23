@@ -57,3 +57,9 @@ pessoas.push("José","Ana","Maicon","Diego");
 pessoas.sort()
 console.log(pessoas);
 // exibição no console : ["Ana","Diego","José","Maicon"]
+
+//---------------Interação-----------------------------//
+for(let i=0; i<nomes.length; i++){
+    console.log(nomes[i]);
+}
+// exibição mp console : aviao bicicleta jato moto patinete "um abaixo do outro"//
