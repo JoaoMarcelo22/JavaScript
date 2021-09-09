@@ -5,7 +5,7 @@ console.log("A media do aluno foi "+ med)
 if( med>=7){
     console.log("Aluno Aprovado")
 }
-else if(med>= 5 & med<7){
+else if(med>= 5 && med<7){
     console.log("Aluno em Recuperação ")
 }
 else{
